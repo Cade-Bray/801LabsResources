@@ -1,20 +1,20 @@
-### Table of contents
-
+### Table of Contents
 1. [Comprehensive Learning & CTF Platforms](#1-comprehensive-learning--ctf-platforms)
 2. [Wargames & Terminal Skills](#2-wargames--terminal-skills)
-3. [Web Application Security](#3-web-application-security)
-4. [Reverse Engineering & Binary Exploitation](#4-reverse-engineering--binary-exploitation)
-5. [Cryptography](#5-cryptography)
-6. [Vulnerable VMs & Offline Labs](#6-vulnerable-vms--offline-labs)
-7. [Repositories, Aggregators & Frameworks](#7-repositories-aggregators--frameworks)
-8. [Communities](#8-communities)
+3. [Blue Team & System Hardening](#3-blue-team--system-hardening)
+4. [Web Application Security](#4-web-application-security)
+5. [Reverse Engineering & Binary Exploitation](#5-reverse-engineering--binary-exploitation)
+6. [Cryptography](#6-cryptography)
+7. [Vulnerable VMs & Offline Labs](#7-vulnerable-vms--offline-labs)
+8. [Repositories, Aggregators & Frameworks](#8-repositories-aggregators--frameworks)
+9. [Communities](#9-communities)
 
 ---
 
 ### 1. Comprehensive Learning & CTF Platforms
 *Platforms offering a mix of web, forensics, crypto, and binary challenges, often with gamified progression.*
 
-* **[TryHackMe](https://tryhackme.com/)** - Beginner-friendly, guided learning paths and virtual rooms.
+* **[TryHackMe](https://tryhackme.com/)** - Beginner-friendly, guided learning paths (Red and Blue team) and virtual rooms.
 * **[Hack The Box CTF](https://ctf.hackthebox.com/)** - Massive platform for pentesting labs and CTF challenges (Intermediate/Advanced).
 * **[picoCTF](https://play.picoctf.org/)** - The gold standard for beginners; created by CMU with a gamified interface.
 * **[CTFlearn](https://ctflearn.com/)** - A user-contributed database of challenges across all categories.
@@ -27,12 +27,21 @@
 ### 2. Wargames & Terminal Skills
 *Resources requiring SSH access and command line proficiency to solve levels.*
 
+* **[SadServers](https://sadservers.com/)** - Interactive troubleshooting and debugging challenges for Linux servers.
+* **[Linux Journey](https://linuxjourney.com/)** - A visual, interactive guide to learning Linux internals and command line basics.
 * **[OverTheWire](https://overthewire.org/)** - The most famous wargame site (start with the "Bandit" series).
 * **[UnderTheWire](https://underthewire.tech/)** - Wargames specifically designed to teach PowerShell.
 * **[SmashTheStack](http://www.smashthestack.org/main.html)** - One of the oldest wargame networks for exploit practice.
 * **[CMD Challenge](https://cmdchallenge.com/)** - Short, fun challenges to master the command line (Bash).
 
-### 3. Web Application Security
+### 3. Blue Team & System Hardening
+*Resources focused on defense, incident response, and securing servers (Blue Team).*
+
+* **[Sourque's Linux Hardening](https://sourque.com/blog/securing-a-linux-server/)** - A comprehensive guide on securing Linux servers for defense competitions.
+* **[JontyMS Writeups](https://jontyms.com/posts/hpcc1/)** - Detailed defense guides and writeups from Horse Plinko Cyber Challenge winners.
+* **[HPCC Resources](https://plinko.horse/resources.html)** - The official resource list for the Horse Plinko Cyber Challenge (Defense/CCDC style).
+
+### 4. Web Application Security
 *Dedicated to hacking websites, SQL injection, XSS, and web protocols.*
 
 * **[PortSwigger Web Security](https://portswigger.net/web-security/dashboard)** - The makers of Burp Suite; offers the excellent "Web Security Academy".
@@ -41,7 +50,7 @@
 * **[PentesterLab](https://pentesterlab.com/exercises)** - Structured exercises and labs for web penetration testing.
 * **[Rubiya CTF](https://los.rubiya.kr/)** - (Lord of SQLInjection) A specialized platform dedicated to SQL Injection attacks.
 
-### 4. Reverse Engineering & Binary Exploitation
+### 5. Reverse Engineering & Binary Exploitation
 *Focuses on decompiling software, analyzing malware, and memory corruption exploits.*
 
 * **[Pwn College](https://pwn.college/)** - An education platform for binary exploitation run by Arizona State University.
@@ -51,18 +60,18 @@
 * **[Exploit Exercises](https://exploit-exercises.com/)** - Virtual machines geared towards privilege escalation and memory corruption.
 * **[Guy in a Tuxedo](https://github.com/guyinatuxedo)** - Extensive tutorials on binary exploitation (pwn).
 
-### 5. Cryptography
+### 6. Cryptography
 *Pure math and code-breaking challenges.*
 
 * **[CryptoHack](https://cryptohack.org/)** - A fun, interactive platform for learning modern cryptography.
 * **[CryptoPals](https://cryptopals.com/)** - The "Matasano Crypto Challenges"; essential for understanding crypto implementation failures.
 
-### 6. Vulnerable VMs & Offline Labs
+### 7. Vulnerable VMs & Offline Labs
 *Machines to download and run locally for isolated practice.*
 
 * **[VulnHub](https://vulnhub.com/)** - The largest repository of user-submitted vulnerable virtual machines.
 
-### 7. Repositories, Aggregators & Frameworks
+### 8. Repositories, Aggregators & Frameworks
 *Lists of resources, source code, and event schedules.*
 
 * **[CTFtime](https://ctftime.org/)** - The central hub for tracking global CTF events, team rankings, and writeups.
@@ -70,7 +79,7 @@
 * **[Awesome CTF Resources GitHub](https://github.com/devploit/awesome-ctf-resources)** - Another extensive list of tools and tutorials.
 * **[FBCTF GitHub Archive](https://github.com/facebookarchive/fbctf)** - Source code for the Facebook CTF platform.
 
-### 8. Communities
+### 9. Communities
 *Places to discuss security, find teammates, and ask questions.*
 
 * **[ShellSharks Guide](https://shellsharks.com/getting-into-information-security#online-communities)** - A guide specifically on finding and joining Infosec communities.
