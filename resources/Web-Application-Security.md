@@ -1,6 +1,6 @@
 # Web Application Security
 
-[← Back to Main Index](./README.md)
+[← Back to Main Index](../README.md)
 
 *Resources dedicated specifically to hacking websites, SQL injection, XSS, and web protocols.*
 
