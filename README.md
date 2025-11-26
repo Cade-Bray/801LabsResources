@@ -1,6 +1,6 @@
 ### Table of Contents
 1. [Comprehensive Learning & CTF Platforms](https://github.com/Cade-Bray/801LabsResources/blob/main/resources/Comprehensive%20Learning%20%26%20CTF%20Platforms.md#comprehensive-learning--ctf-platforms)
-2. [Wargames & Terminal Skills](./resources/Wargames & Terminal Skills.md)
+2. [Wargames & Terminal Skills]('./resources/wargames-terminal.md')
 3. [Blue Team & System Hardening](#3-blue-team--system-hardening)
 4. [Web Application Security](#4-web-application-security)
 5. [Reverse Engineering & Binary Exploitation](#5-reverse-engineering--binary-exploitation)
@@ -10,16 +10,6 @@
 9. [Communities](#9-communities)
 
 ---
-
-### 2. Wargames & Terminal Skills
-*Resources requiring SSH access and command line proficiency to solve levels.*
-
-* **[SadServers](https://sadservers.com/)** - Interactive troubleshooting and debugging challenges for Linux servers.
-* **[Linux Journey](https://linuxjourney.com/)** - A visual, interactive guide to learning Linux internals and command line basics.
-* **[OverTheWire](https://overthewire.org/)** - The most famous wargame site (start with the "Bandit" series).
-* **[UnderTheWire](https://underthewire.tech/)** - Wargames specifically designed to teach PowerShell.
-* **[SmashTheStack](http://www.smashthestack.org/main.html)** - One of the oldest wargame networks for exploit practice.
-* **[CMD Challenge](https://cmdchallenge.com/)** - Short, fun challenges to master the command line (Bash).
 
 ### 3. Blue Team & System Hardening
 *Resources focused on defense, incident response, and securing servers (Blue Team).*
