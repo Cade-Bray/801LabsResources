@@ -12,4 +12,5 @@ Thanks for checking out the community resources! If you're not already apart of 
 8. [Repositories, Aggregators & Frameworks](./resources/Repositories-Aggregators-Frameworks.md)
 9. [Forensics](./resources/forensics.md)
 10. [RF Hacking Resources](./resources/rf-hacking.md)
-11. [Communities](./resources/communities.md)
+11. [Locksport](./resources/locksport.md)
+12. [Communities](./resources/communities.md)
