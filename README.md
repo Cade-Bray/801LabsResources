@@ -4,17 +4,12 @@
 3. [Blue Team & System Hardening](./resources/Blue-Team-System-Hardening.md)
 4. [Web Application Security](./resources/Web-Application-Security.md)
 5. [Reverse Engineering & Binary Exploitation](./resources/Reverse-Engineering-Binary-Exploitation.md)
-6. [Cryptography](#6-cryptography)
+6. [Cryptography](./resources/Cryptography.md)
 7. [Vulnerable VMs & Offline Labs](#7-vulnerable-vms--offline-labs)
 8. [Repositories, Aggregators & Frameworks](#8-repositories-aggregators--frameworks)
 9. [Communities](#9-communities)
 
 ---
-
-### 7. Vulnerable VMs & Offline Labs
-*Machines to download and run locally for isolated practice.*
-
-* **[VulnHub](https://vulnhub.com/)** - The largest repository of user-submitted vulnerable virtual machines.
 
 ### 8. Repositories, Aggregators & Frameworks
 *Lists of resources, source code, and event schedules.*
