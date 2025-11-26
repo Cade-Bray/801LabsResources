@@ -1,5 +1,5 @@
 ## 801 Labs Community Resources
-Thanks for checking out the community resources! If you're not already apart of our community please checkout our [discord](https://discord.gg/maXAUAa2). If you've got a resource that's worth sharing please fork the repository, make your change, and make a pull request back to this repository. 
+Thanks for checking out the community resources! If you're not already apart of our community please checkout our [discord](https://discord.gg/uRSthurdPY). If you've got a resource that's worth sharing please fork the repository, make your change, and make a pull request back to this repository. 
 
 ### Table of Contents
 1. [Comprehensive Learning & CTF Platforms](./resources/comp-learn-ctf-plat.md)
